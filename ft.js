@@ -1,2 +1,2 @@
 const greetings = "Hello world!";
-x = 19;
+//x = 19;
